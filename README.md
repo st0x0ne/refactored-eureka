@@ -1,7 +1,7 @@
 ## Placeholder
 <script src='/refactored-eureka/main.js'></script>
 <form>
-  <input type="text" name="account-name" placeholder="name"><br><br>
+  <input type="text" id="test-id" name="account-name" placeholder="name"><br><br>
   <input type="text" name="kills" placeholder="kills"><br>
   <input type="text" name="deaths" placeholder="deaths"><br>
   <input type="text" name="assists" placeholder="assists"><br><br>

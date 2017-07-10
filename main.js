@@ -1,3 +1,4 @@
 function calculate() {
-console.log("form was submitted");
+  var name = document.getELementById('firstname');
+console.log("form was submitted: " + name);
 }

@@ -1,4 +1,5 @@
 ## Placeholder
+<script src='/refactored-eureka/main.js'></script>
 <form>
   Placeholder 1:<br>
   <input type="text" name="firstname"><br>

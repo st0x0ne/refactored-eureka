@@ -1,5 +1,10 @@
 ## Placeholder
-<body>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</body>
+<form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
+</form>
 You can use the [editor on GitHub](https://github.com/st0x0ne/refactored-eureka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

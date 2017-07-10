@@ -1,10 +1,10 @@
 ## Placeholder
 <script src='/refactored-eureka/main.js'></script>
 <form>
-  Placeholder 1:<br>
-  <input type="text" name="firstname"><br>
-  Placeholder 2:<br>
-  <input type="text" name="lastname"><br>
+  <input type="text" name="account-name" placeholder="name">
+  <input type="text" name="kills" placeholder="kills"><br>
+  <input type="text" name="deaths" placeholder="deaths">
+  <input type="text" name="assists" placeholder="assists"><br>
 </form>
   <button onclick="calculate()">Submit</button>
 You can use the [editor on GitHub](https://github.com/st0x0ne/refactored-eureka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

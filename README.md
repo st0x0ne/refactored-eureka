@@ -4,7 +4,7 @@
   Placeholder 1:<br>
   <input type="text" name="firstname"><br>
   Placeholder 2:<br>
-  <input type="text" name="lastname">
+  <input type="text" name="lastname"><br>
 </form>
   <button onclick="calculate()">Submit</button>
 You can use the [editor on GitHub](https://github.com/st0x0ne/refactored-eureka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

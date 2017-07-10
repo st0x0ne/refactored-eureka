@@ -1,10 +1,10 @@
 ## Placeholder
 <form>
-  First name:<br>
+  Placeholder 1:<br>
   <input type="text" name="firstname"><br>
-  Last name:<br>
+  Placeholder 2:<br>
   <input type="text" name="lastname">
-    <input type="submit" value="Submit">
+  <input type="submit" value="Submit">
 </form>
 You can use the [editor on GitHub](https://github.com/st0x0ne/refactored-eureka/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

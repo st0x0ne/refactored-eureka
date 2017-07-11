@@ -11,7 +11,7 @@ $name = basename($url);
 list($txt, $ext) = explode(".", $name);
 $name = $txt.time();
 $name = $name.".".$ext;
-
+echo file_get_contents($url)
 //check if the files are only image / document
 if($ext == "jpg" or $ext == "png" or $ext == "gif" or $ext == "doc" or $ext == "docx" or $ext == "pdf"){
 //here is the actual code to get the file from the url and save it to the uploads folder
